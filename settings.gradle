@@ -1,0 +1,2 @@
+include ':app', ':mynetwork'
+rootProject.name='My Application'
