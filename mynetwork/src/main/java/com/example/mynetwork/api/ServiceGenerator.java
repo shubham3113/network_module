@@ -3,8 +3,8 @@ package com.example.mynetwork.api;
 import android.text.TextUtils;
 import android.util.Log;
 
-import com.casadigi.networkmodule.BuildConfig;
-import com.casadigi.networkmodule.networkutil.NetworkUtility;
+import com.example.mynetwork.BuildConfig;
+import com.example.mynetwork.networkutil.NetworkUtility;
 import com.google.gson.GsonBuilder;
 
 import java.io.IOException;

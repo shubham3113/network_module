@@ -1,10 +1,12 @@
 package com.example.mynetwork.api;
 
 
-import com.casadigi.networkmodule.requestPojo.CasaMailerRequestPojo;
-import com.casadigi.networkmodule.requestPojo.SupportPostRequestPojo;
-import com.casadigi.networkmodule.requestPojo.UserDeviceInputPojo;
-import com.casadigi.networkmodule.responsepojo.DefaultResponsePojo;
+
+
+import com.example.mynetwork.requestPojo.CasaMailerRequestPojo;
+import com.example.mynetwork.requestPojo.SupportPostRequestPojo;
+import com.example.mynetwork.requestPojo.UserDeviceInputPojo;
+import com.example.mynetwork.responsepojo.DefaultResponsePojo;
 
 import retrofit2.Call;
 

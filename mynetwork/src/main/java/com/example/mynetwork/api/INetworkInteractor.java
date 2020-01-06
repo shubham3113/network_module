@@ -1,15 +1,16 @@
 package com.example.mynetwork.api;
 
-import com.casadigi.networkmodule.requestPojo.CasaMailerRequestPojo;
-import com.casadigi.networkmodule.requestPojo.SupportPostRequestPojo;
-import com.casadigi.networkmodule.requestPojo.UserDeviceInputPojo;
-import com.casadigi.networkmodule.responsepojo.CasaMailerResponsePojo;
-import com.casadigi.networkmodule.responsepojo.InfoResponsePojo;
-import com.casadigi.networkmodule.responsepojo.ProfileResponsePojo;
-import com.casadigi.networkmodule.responsepojo.PushUpdateResponsePojo;
-import com.casadigi.networkmodule.responsepojo.SupportResponsePojo;
-import com.casadigi.networkmodule.responsepojo.UserDeviceOutputPojo;
-import com.casadigi.networkmodule.responsepojo.permissionapipojo.PermissionApiPojo;
+
+import com.example.mynetwork.requestPojo.CasaMailerRequestPojo;
+import com.example.mynetwork.requestPojo.SupportPostRequestPojo;
+import com.example.mynetwork.requestPojo.UserDeviceInputPojo;
+import com.example.mynetwork.responsepojo.CasaMailerResponsePojo;
+import com.example.mynetwork.responsepojo.InfoResponsePojo;
+import com.example.mynetwork.responsepojo.ProfileResponsePojo;
+import com.example.mynetwork.responsepojo.PushUpdateResponsePojo;
+import com.example.mynetwork.responsepojo.SupportResponsePojo;
+import com.example.mynetwork.responsepojo.UserDeviceOutputPojo;
+import com.example.mynetwork.responsepojo.permissionapipojo.PermissionApiPojo;
 
 /**
  * This interface holds api calling stuffs.
